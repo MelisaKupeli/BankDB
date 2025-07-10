@@ -1,0 +1,21 @@
+# Visual Studio dosyaları
+*.exe
+*.dll
+*.pdb
+*.user
+*.suo
+*.cache
+*.ilk
+*.log
+*.vs/
+
+# Build klasörleri
+/bin/
+/obj/
+
+# Paket yöneticisi dosyaları
+packages/
+
+# OS dosyaları
+.DS_Store
+Thumbs.db
